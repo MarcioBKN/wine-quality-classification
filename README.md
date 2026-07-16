@@ -168,9 +168,6 @@ A apresentação também é gerada por código (`python src/build_presentation.p
 O storytelling da análise exploratória está em [`wine_quality_eda_storytelling.pptx`](wine_quality_eda_storytelling.pptx),
 na raiz do repositório.
 
-**Vídeo executivo (5 min):** _[inserir link aqui após a gravação]_
-Roteiro utilizado: [`roteiro_video.md`](roteiro_video.md)
-
 ---
 
 ## 📦 Dependências
